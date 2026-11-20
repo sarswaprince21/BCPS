@@ -1,1 +1,0 @@
-Sample student notes file for CLI file-management practice.
